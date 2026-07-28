@@ -1,0 +1,17 @@
+{
+  "name": "Room Ranger — Camera I-Spy",
+  "short_name": "Room Ranger",
+  "description": "A private, camera-powered I-spy game for children.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#fff7e8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

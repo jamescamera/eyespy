@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Room Ranger magnifying glass icon">
+  <rect width="512" height="512" rx="112" fill="#fff7e8"/>
+  <circle cx="224" cy="220" r="132" fill="#fff" stroke="#6c50df" stroke-width="42"/>
+  <path d="M324 320 427 423" stroke="#6c50df" stroke-width="50" stroke-linecap="round"/>
+  <ellipse cx="183" cy="214" rx="28" ry="36" fill="#243047"/>
+  <ellipse cx="263" cy="214" rx="28" ry="36" fill="#243047"/>
+  <circle cx="175" cy="204" r="8" fill="#fff"/>
+  <circle cx="255" cy="204" r="8" fill="#fff"/>
+  <path d="M173 275c28 24 72 24 100 0" fill="none" stroke="#ff7f8f" stroke-width="18" stroke-linecap="round"/>
+  <path d="M80 118 92 84l12 34 34 12-34 12-12 34-12-34-34-12Z" fill="#ffce55"/>
+</svg>
